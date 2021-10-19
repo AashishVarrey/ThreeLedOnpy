@@ -78,7 +78,7 @@ else:
 
 # Create the buttons to change LED state. Use 'target="_blank"
 # to open in a new window if desired:
-print ('<form action="/cgi-bin/ThreeLedOn.py" method="POST" target="_self">')
+print ('<form action="/cgi-bin/ThreeLedOnpy.py" method="POST" target="_self">')
 print('<input type = "submit" name="on1" value="Turn LED1 on">')
 print('<input type = "submit" name="off1" value="Turn LED1 off">')
 print('<input type = "submit" name="on2" value="Turn LED2 on">')

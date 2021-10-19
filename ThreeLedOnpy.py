@@ -26,8 +26,7 @@ print ('<title>LED switch test</title>')
 print ('<meta http-equiv="refresh" content="30">') # update every 30 sec
 print ('</head>')
 print ('<body>')
-print ('<div style="width:600px;background:#AAAAFF;border:1px;text-
-align:center">')
+print ('<div style="width:600px;background:#AAAAFF;border:1px;text-align:center">')
 print ('<br>')
 print ('<font size="3" color="black" face="helvetica">')
 print ('<b>LED switch</b>')
